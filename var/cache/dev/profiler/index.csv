@@ -1427,3 +1427,12 @@ dcd76a,127.0.0.1,GET,http://localhost:8000/genus/perro/notes,1487209393,,200
 fd9d40,127.0.0.1,GET,http://localhost:8000/genus/Octopus,1487209394,,200
 690507,127.0.0.1,GET,http://localhost:8000/genus/Octopus/notes,1487209395,,200
 fa790f,127.0.0.1,GET,http://localhost:8000/genus/Octopus/notes,1487209397,,200
+1cd2c9,127.0.0.1,GET,http://localhost:8000/genus/Octopus/notes,1487209851,,200
+a7ffdf,127.0.0.1,GET,http://localhost:8000/genus/Octopus/notes,1487209853,,200
+b22ea9,127.0.0.1,GET,http://localhost:8000/genus/Octopus,1487209853,,200
+cb7519,127.0.0.1,GET,http://localhost:8000/genus/Octopus/notes,1487209854,,200
+4a2a39,127.0.0.1,GET,http://localhost:8000/genus/Octopus/notes,1487209856,,200
+a7b27f,127.0.0.1,GET,http://localhost:8000/genus/Octopus,1487209857,,200
+a9b42a,127.0.0.1,GET,http://localhost:8000/genus/Octopus/notes,1487209857,,200
+10631b,127.0.0.1,GET,http://localhost:8000/genus/Octopus,1487209859,,200
+7474fe,127.0.0.1,GET,http://localhost:8000/genus/Octopus/notes,1487209860,,200
