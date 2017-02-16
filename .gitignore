@@ -1,1 +1,3 @@
-var/
+#no tomo en cuenta a var
+/var/cache
+/var/logs
